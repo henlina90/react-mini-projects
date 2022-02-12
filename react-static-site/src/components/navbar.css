@@ -1,0 +1,21 @@
+img {
+  width: 60px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav {
+  display: flex;
+}
+
+h1 {
+  display: flex;
+}
+
+p {
+  display: flex;
+}
