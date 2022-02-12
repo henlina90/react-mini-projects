@@ -1,0 +1,9 @@
+.main {
+  color: #f7f7f7;
+  padding: 2em 6em;
+  line-height: 1.8em;
+}
+
+li::marker {
+  color: #61dafb;
+}

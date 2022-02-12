@@ -1,8 +1,9 @@
 import React from "react";
+import "./main.css";
 
 const Main = () => {
   return (
-    <div>
+    <div className="main">
       <h1>Fun facts about React</h1>
       <ul>
         <li>Was first released in 2013</li>

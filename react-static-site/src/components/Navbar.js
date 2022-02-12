@@ -4,11 +4,13 @@ import "./navbar.css";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <nav className="nav">
+      {/* <nav className="nav"> */}
+      <div className="logo">
         <img src="/logo512.png" alt="react" />
-        <h1>ReactFacts</h1>
-        <p>React Course - Project 1</p>
-      </nav>
+        <h2>ReactFacts</h2>
+      </div>
+      <p>React Course - Project 1</p>
+      {/* </nav> */}
     </div>
   );
 };
